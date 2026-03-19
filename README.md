@@ -1,14 +1,22 @@
-# Hi, I'm Ishaq 👋
+<h1 align="center">Hi there, I'm Ishaq 👋</h1>
 
->A 3rd-year Micro and Nanoelectronics engineering student (Algiers) passionate about the intersection of **Machine Learning** and **Hardware Design** — from training models to deploying them on silicon.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;ML+%C3%97+Hardware+Developer;FPGA+%26+Edge+AI+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  Passionate about the intersection of <strong>Machine Learning</strong> and <strong>Hardware Design</strong> —<br>from training models to deploying them on silicon.
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Student in Micro and Nanoelectronics engineering / AI
+- 🎓 Micro and Nanoelectronics Engineering student
 - 🔬 Interests: Neural networks, FPGA deployment, signal processing & optimization
-- 🛠️ Currently exploring: Edge AI, hardware-accelerated inference, and hyperparameter optimization
+- 🛠️ Currently exploring: Edge AI, hardware-accelerated inference, hyperparameter tuning
 - 🤝 Open to collaborations on ML or FPGA-related projects
 - 📍 Algeria
 
@@ -17,31 +25,34 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-14181C?style=flat-square&logo=python&logoColor=3776AB)
-![MATLAB](https://img.shields.io/badge/MATLAB-14181C?style=flat-square&logo=mathworks&logoColor=0076A8)
-![Verilog](https://img.shields.io/badge/Verilog-14181C?style=flat-square&logo=verilog&logoColor=white)
-![C](https://img.shields.io/badge/C-14181C?style=flat-square&logo=c&logoColor=A8B9CC)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-b2b7f8?style=for-the-badge&logo=verilog&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### ML / Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-14181C?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-14181C?style=flat-square&logo=scikit-learn&logoColor=F7931E)
-![Pandas](https://img.shields.io/badge/Pandas-14181C?style=flat-square&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-14181C?style=flat-square&logo=numpy&logoColor=013243)
-![Jupyter](https://img.shields.io/badge/Jupyter-14181C?style=flat-square&logo=jupyter&logoColor=F37626)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Hardware & Tools
-![Xilinx](https://img.shields.io/badge/Xilinx_Vivado-14181C?style=flat-square&logo=xilinx&logoColor=E01F27)
-![Git](https://img.shields.io/badge/Git-14181C?style=flat-square&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-14181C?style=flat-square&logo=linux&logoColor=FCC624)
-![VS Code](https://img.shields.io/badge/VS_Code-14181C?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Xilinx](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📬 Connect
+## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-14181C?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ishaq-kolla/)
-[![Email](https://img.shields.io/badge/Email-14181C?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
-[![Kaggle](https://img.shields.io/badge/Kaggle-14181C?style=flat-square&logo=kaggle&logoColor=20BEFF)](https://kaggle.com/YOUR_KAGGLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ishaq-ML&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
+</p>
