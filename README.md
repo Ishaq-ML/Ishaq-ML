@@ -72,7 +72,3 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishakkolla61@gmail.com)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ishaq-ML&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
-</p>
