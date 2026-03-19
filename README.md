@@ -45,6 +45,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ishaq-ML&style=flat-square&color=58a6ff&label=profile+views" />
-</p>
