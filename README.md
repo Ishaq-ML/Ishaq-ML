@@ -39,7 +39,7 @@
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-14181C?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-14181C?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ishaq-kolla/)
 [![Email](https://img.shields.io/badge/Email-14181C?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
 [![Kaggle](https://img.shields.io/badge/Kaggle-14181C?style=flat-square&logo=kaggle&logoColor=20BEFF)](https://kaggle.com/YOUR_KAGGLE)
 
