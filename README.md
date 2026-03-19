@@ -61,8 +61,8 @@
 ## 🏅 Certificates
 
 [![Purdue](https://img.shields.io/badge/Purdue_University-Semiconductor_Fabrication-CEB888?style=for-the-badge&logo=academia&logoColor=black)](https://purdue.brightspace.com/d2l/awards/assertions/546517/view)
-![freeCodeCamp](https://img.shields.io/badge/fCC-Data_Analysis_with_Python-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
-![freeCodeCamp](https://img.shields.io/badge/fCC-Machine_Learning_with_Python-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
+[![freeCodeCamp](https://img.shields.io/badge/fCC-Data_Analysis_with_Python-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/kolla_ishaq/data-analysis-with-python-v7)
+[![freeCodeCamp](https://img.shields.io/badge/fCC-Machine_Learning_with_Python-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/kolla_ishaq/machine-learning-with-python-v7)
 
 ---
 
