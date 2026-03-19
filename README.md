@@ -9,8 +9,6 @@
 <p align="center">
   Passionate about the intersection of <strong>Machine Learning</strong> and <strong>Hardware Design</strong> —<br>from training models to deploying them on silicon.
 </p>
-A
----
 
 ## 🧠 About Me
 
