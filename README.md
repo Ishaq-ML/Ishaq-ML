@@ -1,12 +1,12 @@
 # Hi, I'm Ishaq 👋
 
-> Computer Engineering student passionate about the intersection of **Machine Learning** and **Hardware Design** — from training models to deploying them on silicon.
+>A 3rd-year Micro and Nanoelectronics engineering student (Algiers) passionate about the intersection of **Machine Learning** and **Hardware Design** — from training models to deploying them on silicon.
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Student in Computer Engineering / Embedded Systems & AI
+- 🎓 Student in Micro and Nanoelectronics engineering / AI
 - 🔬 Interests: Neural networks, FPGA deployment, signal processing & optimization
 - 🛠️ Currently exploring: Edge AI, hardware-accelerated inference, and hyperparameter optimization
 - 🤝 Open to collaborations on ML or FPGA-related projects
