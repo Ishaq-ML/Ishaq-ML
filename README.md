@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ishaq 👋</h1>
+<h1 align="center">Hi there, I'm Ishaq </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -7,21 +7,21 @@
 </p>
 
 <p align="center">
-  Passionate about the intersection of <strong>Machine Learning</strong> and <strong>Hardware Design</strong> —<br>from training models to deploying them on silicon.
+  Passionate about the intersection of <strong>Machine Learning</strong> and <strong>Hardware Design</strong> <br>from training models to deploying them on silicon.
 </p>
 
-## 🧠 About Me
+## About Me
 
-- 🎓 Micro-Nanoelectronics Engineering student @ National School of Nanoscience and Nanotechnology, Algiers
-- 🔬 Interests: Neural networks, FPGA deployment, signal processing & metaheuristic optimization
-- 🛠️ Currently: ECG arrhythmia detection pipeline — NAS with NSGA-II + INT8 FPGA deployment
-- 🏫 Mentor @ Zeradox Scientific Club — taught Python, ML & data analysis to 50+ students
-- 🤝 Open to collaborations on ML or FPGA-related projects
-- 📍 Ain Defla, Algeria
+- Micro-Nanoelectronics Engineering student @ National School of Nanoscience and Nanotechnology, Algiers
+- Interests: Neural networks, FPGA deployment, Multiphysics simulation & metaheuristic optimization
+- Currently: ECG arrhythmia detection pipeline - NAS with NSGA-II + INT8 FPGA deployment
+- Mentor @ Zeradox Scientific Club - taught Python, ML & data analysis to 50+ students
+- Open to collaborations on ML or FPGA-related projects
+- Ain Defla, Algeria
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,7 +59,7 @@
 
 ---
 
-## 🏅 Certificates
+## Certificates
 
 [![Purdue](https://img.shields.io/badge/Purdue_University-Semiconductor_Fabrication-CEB888?style=for-the-badge&logo=academia&logoColor=black)](https://purdue.brightspace.com/d2l/awards/assertions/546517/view)
 [![freeCodeCamp](https://img.shields.io/badge/fCC-Data_Analysis_with_Python-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/kolla_ishaq/data-analysis-with-python-v7)
@@ -67,7 +67,7 @@
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishaq-kolla)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ishakkolla61@gmail.com)
